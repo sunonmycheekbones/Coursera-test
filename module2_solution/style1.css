@@ -32,6 +32,7 @@ p
 }
 .p1 > p {
 	margin-top: 36px;
+	width: 90%;
 	background-color: transparent;
 	text-align: left;
 	color: #111111;
@@ -63,6 +64,7 @@ p
 
 .p2 > p {
 	margin-top: 36px;
+	width: 90%;
 	background-color: transparent;
 	text-align: left;
 	color: #111111;
@@ -94,6 +96,7 @@ p
 
 .p3 > p {
 	margin-top: 36px;
+	width: 90%;
 	background-color: transparent;
 	text-align: left;
 	color: #111111;
@@ -129,7 +132,7 @@ p
 @media (min-width: 768px) and (max-width: 991px)
 {
 	.col-md-12 , .col-md-6 {float: left;}
-	
+
 	.col-md-12 { 
 
 		 width: 100%;
